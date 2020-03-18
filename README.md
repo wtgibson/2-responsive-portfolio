@@ -53,7 +53,7 @@ Minimum Requirements
 Below is an example of a block of code in the HTML file where I leveraged the Bootstrap and the Grid system to create, style, and place a responsive card with an image and text inside on the web page.
 
 ```html
-    <div class="container-responsive border bg-light py-5 m-0">
+<div class="container-responsive border bg-light py-5 m-0">
     <div class="row">
       <div class="card bg-white py-4 col-lg-9 col-md-10 col-sm-10 ml-5">
         <div class="h1 text-info">About Me
@@ -79,7 +79,7 @@ Below is an example of a block of code in the HTML file where I leveraged the Bo
       </div>
       <div class="col-"> </div>
     </div>
-  </div>
+</div>
 ```
 
 ## Author Links
