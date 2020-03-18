@@ -39,7 +39,7 @@ Minimum Requirements
 - Must properly utilize Bootstrap components and grid system.
 
 ## Site Picture
-![Site](./assets/images/about-me.png)
+![Site](/about-me.png)
 
 ## Technologies Used
 - HTML - used to create elements on the DOM
