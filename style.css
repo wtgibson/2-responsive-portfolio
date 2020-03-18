@@ -1,29 +1,28 @@
-.footer {
-    position: absolute;
-    width: 100%;
-    margin-bottom: 0;
-    height: 175px;
+* {
+    font-family: serif;
 }
 
-$grid-columns:      12;
-$grid-gutter-width: 30px;
+.border-top {
+    border-top: 6px solid #17a2b8!important;
+}
 
-$grid-breakpoints: (
-  // Extra small screen / phone
-  xs: 0,
-  // Small screen / phone
-  sm: 576px,
-  // Medium screen / tablet
-  md: 768px,
-  // Large screen / desktop
-  lg: 992px,
-  // Extra large screen / wide desktop
-  xl: 1200px
-);
+.footer {
+    width: 100%;
+    margin-bottom: 0;
+    height: 5rem;
+}
 
-$container-max-widths: (
-  sm: 540px,
-  md: 720px,
-  lg: 960px,
-  xl: 1140px
-);
+.card-img-overlay {
+    text-align: center;
+    height: 110px;
+    margin-top: 35%;
+    width: 92%;
+    margin-left: .93rem;
+    font: white;
+    z-index: 2;
+}
+
+p {
+    line-height: 2.0;
+    font-size: larger;
+}
